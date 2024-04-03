@@ -1,0 +1,13 @@
+/* App.css */
+.App {
+  display: flex;
+}
+
+
+/* Page.css */
+.page {
+  flex: 1;
+  background-color: #f0f0f0;
+  position: relative;
+}
+
