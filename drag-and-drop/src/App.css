@@ -1,13 +1,24 @@
-/* App.css */
+
 .App {
   display: flex;
 }
 
 
-/* Page.css */
+@media screen and (max-width: 768px) {
+  .App {
+    flex-direction: column; 
+  }
+}
+
+
 .page {
   flex: 1;
   background-color: #f0f0f0;
   position: relative;
 }
 
+@media screen and (max-width: 768px) {
+  .page {
+    padding: 10px; /* Add padding for smaller screens */
+  }
+}
