@@ -1,4 +1,8 @@
 # Drag and Drop Page Builder
+## Screenshot
+![drag-one](https://github.com/syedosama1/drag-and-drop-mini-app/assets/111410324/40cfe21f-e4d0-48a5-b408-78f50702415e)
+![Dragtwo](https://github.com/syedosama1/drag-and-drop-mini-app/assets/111410324/48c061be-aabb-459b-8c1e-305ade6ce8fb)
+![Drag-Three](https://github.com/syedosama1/drag-and-drop-mini-app/assets/111410324/7038eab2-fd9a-4e04-9536-29c3960bf9a6)
 
 ## Functionality
 
